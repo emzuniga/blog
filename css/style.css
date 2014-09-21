@@ -1,6 +1,35 @@
-.header {
-	background-color: navy blue; 
-}
 h1 {
-	font-family: arial, font-color: white, font-size: 20px;
+	font-family: Arial;
+	font-size: 35px;
+	color: #ffffff;
+	text-align: center;
+}
+div.header {
+	width: 100%;
+	background-color:#0f1a52;
+	padding:20px;
+	margin: 10px;
+}
+body {
+	width: 900px;
+}
+h2 {
+	font-family: Arial;
+	font-size: 25px;
+	color: #05aa8b;
+
+}
+h3 {
+	font-family: Arial;
+	font-size: 20px;
+	color: #666666;
+}
+p {
+	font-family: Arial;
+}
+a {
+	color:#05aa8b;
+}
+img {
+	width: 200px x 200px;
 }
